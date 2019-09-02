@@ -157,10 +157,7 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
-		a:hover {
-			border-bottom-color: #2F4EA5;
-			color: #2F4EA5 !important;
-		}
+
 
 			a:hover strong {
 				color: inherit;
