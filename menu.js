@@ -5,7 +5,7 @@ document.write('\
   </header>\
   <ul>\
     <li><a href="index.html">Homepage</a></li>\
-    <li><a href="activity.html">activity</a></li>\
+    <!--<li><a href="activity.html">activity</a></li>-->\
     <li>\
       <span class="opener">publication</span>\
       <ul>\
