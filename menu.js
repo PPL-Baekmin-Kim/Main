@@ -5,18 +5,22 @@ document.write('\
   </header>\
   <ul>\
     <li><a href="index.html">Homepage</a></li>\
-      <span class="opener">Member</span>\
-      <ul>\
-        <li><a href="">Professor</a></li>\
-        <li><a href="people.html">People</a></li>\
-        <!--<li><a href="activity.html">activity</a></li>-->\
     <li>\
+    \
+    <span class="opener">Member</span>\
+    <ul>\
+      <li><a href="">Professor</a></li>\
+      <li><a href="people.html">People</a></li>\
+    </ul>\
+    </li>\
+\    
       <span class="opener">publication</span>\
       <ul>\
         <li><a href="article.html">article and paper</a></li>\
         <li><a href="book.html">book</a></li>\
       </ul>\
       </li>\
+    \  
       <li>\
       <span class="opener">Lecture</span>\
       <ul>\
@@ -26,6 +30,5 @@ document.write('\
       </ul>\
 \
     </li>\
-
 </nav>\
 ');
