@@ -28,6 +28,5 @@ document.write('\
       </ul>\
 \
     </li>\
-    <li><a href="people.html">people</a></li>\
 </nav>\
 ');
