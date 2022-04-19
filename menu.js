@@ -13,7 +13,7 @@ document.write('\
       <li><a href="people.html">People</a></li>\
     </ul>\
     </li>\
-\    
+      <li>\
       <span class="opener">publication</span>\
       <ul>\
         <li><a href="article.html">article and paper</a></li>\
